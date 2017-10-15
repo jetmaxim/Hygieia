@@ -1,0 +1,1 @@
+java -jar ..\api\target\api.jar --spring.config.location=api.properties

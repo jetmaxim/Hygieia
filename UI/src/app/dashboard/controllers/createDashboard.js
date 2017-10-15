@@ -27,6 +27,7 @@
         ctrl.templates = [
             {value: 'capone', name: 'Cap One', type: DashboardType.TEAM},
             {value: 'caponechatops', name: 'Cap One ChatOps', type: DashboardType.TEAM},
+            {value: 'se', name: 'Schneider Electric', type: DashboardType.TEAM},
             {value: 'cloud', name: 'Cloud Dashboard', type: DashboardType.TEAM},
             {value: 'splitview', name: 'Split View', type: DashboardType.TEAM},
             {value: 'product-dashboard', name: 'Product Dashboard', type: DashboardType.PRODUCT}

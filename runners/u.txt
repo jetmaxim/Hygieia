@@ -1,0 +1,5 @@
+https://github.com/jhipster/generator-jhipster/issues/777
+also....
+data.element._node.remove();
+
+ulnzibd3yrjbhoxzle6bsnzdsjbxwt2wr56w4cvpurs3z6ptcpla

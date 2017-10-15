@@ -1,0 +1,1 @@
+java -jar ..\collectors\feature\vsts\target\jira-feature-collector.jar --spring.config.location=fvsts.properties >m
