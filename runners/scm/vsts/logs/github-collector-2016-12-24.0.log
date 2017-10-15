@@ -1,6 +1,0 @@
-2016-12-24 23:18:39,515 INFO  c.c.d.collector.CollectorTask - -----------------------------------
-2016-12-24 23:18:39,546 INFO  c.c.d.collector.CollectorTask - Starting...
-2016-12-24 23:18:39,546 INFO  c.c.d.collector.CollectorTask - -----------------------------------
-2016-12-24 23:18:39,563 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
-2016-12-24 23:18:39,563 INFO  c.c.d.collector.CollectorTask - New Commits             1        0s
-2016-12-24 23:18:39,563 INFO  c.c.d.collector.CollectorTask - Finished                         0s

@@ -1,1 +1,0 @@
-java -jar ..\collectors\build\sonar\target\sonar-codequality-collector-2.0.5-SNAPSHOT.jar --spring.config.location=sonar.properties

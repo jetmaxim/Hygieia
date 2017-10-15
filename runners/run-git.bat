@@ -1,1 +1,0 @@
-java -jar ..\collectors\scm\github\target\github-scm-collector-2.0.5-SNAPSHOT.jar --spring.config.location=vsts.properties
